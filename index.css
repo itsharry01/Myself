@@ -11,7 +11,7 @@ body
     border-radius: 2mm;
 }
 .flex-container {
-  display: flex;
+  display: xflee;
   flex-direction: column;
 }
 .resume
