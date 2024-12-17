@@ -11,8 +11,7 @@ body
     border-radius: 2mm;
 }
 .resume
-{
-    float: left;
+{   
     padding: 2mm;
     border-radius: 2mm;
     background-color: antiquewhite;
@@ -20,14 +19,12 @@ body
 }
 .project-1
 {
-    float: left;
     padding: 2mm;
     border-radius: 2mm;
     background-color: aqua;
 }
 .linkedin
 {
-    float: left;
     background-color: blueviolet;
     padding: 2mm;
     border-radius: 2mm;
