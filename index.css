@@ -1,0 +1,34 @@
+body
+{
+    background-color: black;
+    text-align: center;
+}
+.body
+{
+    background-color: brown;
+    padding: 2mm;
+    margin: 2mm;
+    border-radius: 2mm;
+}
+.resume
+{
+    float: left;
+    padding: 2mm;
+    border-radius: 2mm;
+    background-color: antiquewhite;
+
+}
+.project-1
+{
+    float: left;
+    padding: 2mm;
+    border-radius: 2mm;
+    background-color: aqua;
+}
+.linkedin
+{
+    float: left;
+    background-color: blueviolet;
+    padding: 2mm;
+    border-radius: 2mm;
+}
